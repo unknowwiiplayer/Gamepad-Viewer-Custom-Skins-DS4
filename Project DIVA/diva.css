@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(ps4-assets/base.svgz);
+    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Project%20DIVA/base.png?raw=true);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -7,13 +7,13 @@
 }
 
 .ds4 .face {
-    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skin-DS4-Black-DIVA/blob/master/Projec%20Diva/dpad.png?raw=true);
+    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Project%20DIVA/dpad.png?raw=true);
     position: absolute;
 }
 
 .ds4 .button {
     position: absolute;
-    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skin-DS4-Black-DIVA/blob/master/Projec%20Diva/face.png?raw=true);
+    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Project%20DIVA/face.png?raw=true);
 }
 
 .ds4 .button.pressed {
