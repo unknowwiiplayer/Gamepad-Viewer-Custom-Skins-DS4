@@ -1,5 +1,5 @@
 .controller.ds4 {
-    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Project%20DIVA/base.png?raw=true);
+    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Common/baselite.png?raw=true);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -41,4 +41,11 @@
 .ds4 .y {
     background-position: 55px 0;
     left: 58px;
+}
+
+.ds4 .stick {
+    position: absolute;
+    background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skins-DS4/blob/master/Common/bsticktaiko.png?raw=true);
+    height: 94px;
+    width: 94px;
 }
