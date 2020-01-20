@@ -1,3 +1,11 @@
+.controller.ds4 {
+    background: url(ps4-assets/base.svgz);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
 .ds4 .face {
     background: url(https://github.com/unknowwiiplayer/Gamepad-Viewer-Custom-Skin-DS4-Black-DIVA/blob/master/Projec%20Diva/dpad.png?raw=true);
     position: absolute;
